@@ -1,0 +1,2 @@
+FLUSHDB
+RPUSH "74fd6b95-4c6b-43eb-ab77-82b654f9bcb9" "{\"id_jornada\": \"74fd6b95-4c6b-43eb-ab77-82b654f9bcb9\", \"nome_jornada_consumidor\": \"APLICA\u00C7\u00D5ES DO IBBA\", \"matriz\": {\"id_matriz\": \"6450a405-f5aa-4d55-a2ee-00123bae1765\", \"fields\":[{\"field_name\": \"nome_completo\", \"nivel_completude\":200, \"codigo_fonte_confirmacao_completude\":12456,\"codigo_metodo_confirmacao_completude\":123456,\"is_valida_completude\":true, \"is_critico\":true}]}}"
